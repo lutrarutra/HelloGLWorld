@@ -10,9 +10,8 @@
 #include <math.h>
 
 
-
-#define WIDTH 800
-#define HEIGHT 600
+#define WIDTH 1024
+#define HEIGHT 800
 
 #pragma region stuff
 

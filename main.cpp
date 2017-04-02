@@ -1,5 +1,4 @@
 #include <iostream>
-#include <SDL2\SDL.h>
 #include <string>
 #include "shader.h"
 #include "transform.h"
@@ -8,6 +7,7 @@
 #include "texture.h"
 #include "display.h"
 #include <math.h>
+#include <include/SDL2/SDL_events.h>
 
 
 #define WIDTH 1024
